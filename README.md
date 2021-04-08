@@ -1,1 +1,1 @@
-# SE_project
+# 🐥 Software Engineering 7조 🐥
